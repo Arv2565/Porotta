@@ -2,19 +2,24 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+## Hope Among the Ruins
+Hope among the Ruins is a 2D shooter inspired by the zombie games such as last of us and left 4 dead.
+It is a simple platformer where you shoot zombies as they come in hordes. 
+The controls for this game are the left arrow button to move left, right arrow button to move right and Space to shoot.
+
+
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Arvind [https://github.com/Arv2565]
+2. Jonahs George [https://github.com/Jonahs17]
+3. Anumodh M [https://github.com/anumodh4]
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
+1. For running this game got to game_file.py and run the file.
 2. Embed video of project demo
 ## Libraries used
-Library Name - Version
+pygame
 ## How to configure
-Instructions for setting up project
+Type the command python -m pip install pygame in the terminal
 ## How to Run
 Instructions for running
