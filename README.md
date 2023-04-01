@@ -22,4 +22,4 @@ pygame
 ## How to configure
 Type the command python -m pip install pygame in the terminal
 ## How to Run
-For running this game got to game_file.py and run the file.
+For running this game go to menu.py file which will give access to game_file.py where the game automatically starts.
