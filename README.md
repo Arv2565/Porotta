@@ -17,7 +17,6 @@ It is a simple platformer where you shoot zombies as they come in hordes.
 
 https://user-images.githubusercontent.com/117474111/229309297-546e8d8f-cf86-40ca-be64-1af936982334.mp4
 
-[link to video]
 ## How it Works ?
 1. The controls for this game are the left arrow button to move left, right arrow button to move right and Space to shoot.
 2. Embed video of project demo
