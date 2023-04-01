@@ -19,6 +19,9 @@ It is a simple platformer where you shoot zombies as they come in hordes.
 2. Embed video of project demo
 ## Libraries used
 pygame
+subprocess
+random
+math
 ## How to configure
 Type the command python -m pip install pygame in the terminal
 ## How to Run
