@@ -5,7 +5,7 @@
 ## Hope Among the Ruins
 Hope among the Ruins is a 2D shooter inspired by the zombie games such as last of us and left 4 dead.
 It is a simple platformer where you shoot zombies as they come in hordes. 
-The controls for this game are the left arrow button to move left, right arrow button to move right and Space to shoot.
+
 
 
 ## Team members
@@ -15,11 +15,11 @@ The controls for this game are the left arrow button to move left, right arrow b
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. For running this game got to game_file.py and run the file.
+1. The controls for this game are the left arrow button to move left, right arrow button to move right and Space to shoot.
 2. Embed video of project demo
 ## Libraries used
 pygame
 ## How to configure
 Type the command python -m pip install pygame in the terminal
 ## How to Run
-Instructions for running
+For running this game got to game_file.py and run the file.
